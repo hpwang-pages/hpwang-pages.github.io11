@@ -1,5 +1,5 @@
 ---
-title:          You Only Hypothesize Once':' Point Cloud Registration with Rotation-equivariant Descriptors
+title:          PatchAugNet':' Patch feature augmentation-based heterogeneous point cloud place recognition in large-scale street scenes
 date:           2023-11-18 00:01:00 +0800
 selected:       false
 pub:            "ISPRS Journal of Photogrammetry and Remote Sensing (IF: 12.7)"
