@@ -7,15 +7,11 @@
         {%- assign key = _key | split: "*" | first -%}
         {%- assign mark = "*" -%}
         {%- assign has_eq_contrib = true -%}
-    {%- else -%}
-        {%- assign key = _key -%}
-        {%- assign mark = "" -%}
-    {%- endif -%}
-    
-    {%- if last_char == "†" -%}
+    {%- elsif last_char == "†" -%}
         {%- assign key = _key | split: "†" | first -%}
     {%- else -%}
         {%- assign key = _key -%}
+        {%- assign mark = "" -%}
     {%- endif -%}
 
     {%- assign info = site.data.authors[key] -%}
