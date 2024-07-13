@@ -1,17 +1,20 @@
 ---
-title:          Lorem ipsum dolor sit amet, consectetur adipiscing elit
-date:           2023-01-05 00:01:00 +0800
+title:          You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors
+date:           2022-06-30 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
-pub_date:       "2023"
+pub:            "ACM Multimedia"
+pub_date:       "2022"
 abstract: >-
-  Photo by Thomas Renaud on Unsplash. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-cover:          assets/images/covers/cover1.jpg
+  Endow local descriptors of point clouds with rotation equivariance based on the icosahedral group learning, achieving SoTA registration performances on the 3D(Lo)Match, ETH, and WHU-TLS datasets (2022).
+cover:          assets/images/covers/yoho_park.mp4
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Haiping Wang*
+- Yuan Liu*
+- Zhen Dong<sup>&dagger;</sup>
+- Wenping Wang
 links:
-  Paper: https://www.cell.com
+  Paper: https://arxiv.org/abs/2109.00182
+  Code: https://github.com/HpWang-whu/YOHO
+  Project Page: https://hpwang-whu.github.io/YOHO/
+  Video: https://www.youtube.com/watch?v=7ShT4faXjy0
 ---
