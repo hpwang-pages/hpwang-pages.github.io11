@@ -7,7 +7,7 @@ pub_date:       "2022"
 abstract: >-
   Endow local descriptors of point clouds with rotation equivariance based on the icosahedral group learning, achieving SoTA registration performances on the 3D(Lo)Match, ETH, and WHU-TLS datasets (2022).
   
-video:          assets/images/covers/yoho_park.gif
+cover:          assets/images/covers/yoho_park.gif
 authors:
   - Haiping Wang*
   - Yuan Liu*
