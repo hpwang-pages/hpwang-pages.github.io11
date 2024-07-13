@@ -1,15 +1,15 @@
-primary_name: "Your Name"
+primary_name: "Haiping Wang"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Haiping Wang"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Peking University (2021)'
+  - '<span class="no-break"><img src="assets/images/badges/WHU.png" alt="Wuhan University" class="inline-badge"/></span> PhD., Wuhan University (2023-Now)'
 
-email: "your@email.com"
+email: "hpwang@whu.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: your_google_scholar_id
-github: your_github_id
-twitter: your_twitter_id
+gscholar: https://scholar.google.com.hk/citations?user=YAdDCr0AAAAJ&hl=zh-CN
+github: https://github.com/HpWang-whu
+# twitter: your_twitter_id
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -17,33 +17,42 @@ twitter: your_twitter_id
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+I am currently a Ph.D. student at the <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a> (State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing) 
+of <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>. 
+I also maintain a close collaboration with Assistant Professor <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> from <a href="https://hkust.edu.hk/"> Hong Kong University of Science and Technology</a>. 
+Additionally, I am an active member of <a href="https://anysyn3d.github.io/about.html">AnySync3D</a> and maintain our team's open-source platform <a href="https://github.com/WHU-USI3DV">WHU-USI3DV</a> for point cloud processing benchmarks and algorithms.
+My research focuses on advanced 3D vision algorithms, encompassing 3D  reconstruction, open vocabulary understanding, and 3D Large Language Models.
 
 show_portrait: true
-portrait_url: assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash.
+portrait_url: assets/images/photos/whp.jpg
 
 education:
-- name: Peking University
-  logo: assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+- name: Wuhan University
+  logo: assets/images/badges/WHU.png
+  position: PhD. in Photogrammetry and Remote Sensing
+  date: Sep. 2023 - Now
 
-# experience:
-# - name: Peking University
-#   logo: assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+- name: Wuhan University
+  logo: assets/images/badges/WHU.png
+  position: Successive master-doctor program.(M.S.) in Photogrammetry and Remote Sensing
+  date: Sep. 2020 - Jul. 2023
 
+- name: Wuhan University
+  logo: assets/images/badges/WHU.png
+  position: B.S. in Photogrammetry and Remote Sensing
+  date: Sep. 2016 - Jul. 2020
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
+- name: National Scholarship for PhD (Top 3%)
+  date: 2023
+- name: Gold Medal of Smart City Technology Innovation Award (Rank 1st)
+  date: 2023
+- name: Outstanding Student Scholarship (Top 1%), Outstanding Graduate of Wuhan University (Top 5%)
+  date: 2020
+- name: The Best Paper Award at the National Lidar Conference (Top 10)
+  date: 2018
+- name: National Scholarship for Postgraduates (Top 3%)
+  date: 2017,2018
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
