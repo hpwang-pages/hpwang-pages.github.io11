@@ -1,5 +1,5 @@
 ---
-title:          You Only Hypothesize Once':' Point Cloud Registration with Rotation-equivariant Descriptors
+title:          CG-SSD':' Corner guided single stage 3D object detection from LiDAR point cloud
 date:           2022-07-09 00:01:00 +0800
 selected:       false
 pub:            "ISPRS Journal of Photogrammetry and Remote Sensing (IF: 12.7)"
