@@ -11,7 +11,7 @@ cover:          assets/images/covers/yoho_park.gif
 authors:
   - Haiping Wang*
   - Yuan Liu*
-  - Zhen Dong<sup>&dagger;</sup>
+  - Zhen Dong†
   - Wenping Wang
 links:
   Paper: https://arxiv.org/abs/2109.00182
