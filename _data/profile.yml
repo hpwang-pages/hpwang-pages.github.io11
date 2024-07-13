@@ -18,7 +18,7 @@ github: https://github.com/HpWang-whu
 
 short_bio: >-
   I am currently a Ph.D. student at the <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>. 
-  I also maintain a close collaboration with Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> from <a href="https://hkust.edu.hk/"> HKUSTz</a>. 
+  I also maintain a close collaboration with Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> from <a href="https://hkust.edu.hk/"> HKUST</a>. 
   Additionally, I am an active member of <a href="https://anysyn3d.github.io/about.html">AnySync3D</a> and maintain an open-source platform <a href="https://github.com/WHU-USI3DV">WHU-USI3DV</a> for point cloud processing benchmarks and algorithms.
   My research focuses on advanced 3D vision algorithms, encompassing 3D  reconstruction, 3D understanding, and 3D Large Language Models.
 
@@ -26,19 +26,19 @@ show_portrait: true
 portrait_url: assets/images/photos/whp.jpg
 
 education:
-- name: Liesmars, Wuhan University
+- name: LIESMARS, Wuhan University
   logo: assets/images/badges/WHU.png
   position: PhD. in Photogrammetry and Remote Sensing
   date: Sep. 2023 - Now
 
-- name: Liesmars, Wuhan University
+- name: LIESMARS, Wuhan University
   logo: assets/images/badges/WHU.png
   position: M.S.(Trans. to PhD) in Photogrammetry and Remote Sensing
   date: Sep. 2020 - Jul. 2023
 
 - name: SGG, Wuhan University
   logo: assets/images/badges/WHU.png
-  position: B.S. in Photogrammetry and Remote Sensing
+  position: B.S. in Photogrammetry and Remote Sensing (Rank 2/291)
   date: Sep. 2016 - Jul. 2020
 
 awards:
@@ -50,6 +50,8 @@ awards:
   date: 2020
 - name: Outstanding Graduate of Wuhan University (Top 5%)
   date: 2020
+- name: Dao-Yu Liu Innovation & Learning Scholarship - First Class (Top 5%)
+  date: 2019
 - name: The Best Paper Award at the National Lidar Conference (Top 10)
   date: 2018
 - name: National Scholarship for Postgraduates (Top 3%)
@@ -58,4 +60,4 @@ awards:
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  Thank <a href="https://luost.me/">Shitong Luo <\a> for this wonderful <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> academic-homepage-templet</a>.
+  Thank <a href="https://luost.me/">Shitong Luo</a> for this wonderful <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> academic-homepage-templet</a>.
