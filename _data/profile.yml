@@ -17,11 +17,11 @@ github: https://github.com/HpWang-whu
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-I am currently a Ph.D. student at the <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a> (State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing) 
-of <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>. 
-I also maintain a close collaboration with Assistant Professor <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> from <a href="https://hkust.edu.hk/"> Hong Kong University of Science and Technology</a>. 
-Additionally, I am an active member of <a href="https://anysyn3d.github.io/about.html">AnySync3D</a> and maintain our team's open-source platform <a href="https://github.com/WHU-USI3DV">WHU-USI3DV</a> for point cloud processing benchmarks and algorithms.
-My research focuses on advanced 3D vision algorithms, encompassing 3D  reconstruction, open vocabulary understanding, and 3D Large Language Models.
+  I am currently a Ph.D. student at the <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a> (State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing) 
+  of <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>. 
+  I also maintain a close collaboration with Assistant Professor <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> from <a href="https://hkust.edu.hk/"> Hong Kong University of Science and Technology</a>. 
+  Additionally, I am an active member of <a href="https://anysyn3d.github.io/about.html">AnySync3D</a> and maintain our team's open-source platform <a href="https://github.com/WHU-USI3DV">WHU-USI3DV</a> for point cloud processing benchmarks and algorithms.
+  My research focuses on advanced 3D vision algorithms, encompassing 3D  reconstruction, open vocabulary understanding, and 3D Large Language Models.
 
 show_portrait: true
 portrait_url: assets/images/photos/whp.jpg
